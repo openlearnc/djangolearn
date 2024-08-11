@@ -1,9 +1,10 @@
 # djangolearn
-jquery
+jquery  
 jquery底部  
 jquery触底  
 jquery触底加载  
 jquery加载更多  
+jquery触底加载数据  
 jquery固定屏幕指定位置  
 django触底加载  
 django ajax局部刷新    
